@@ -1,0 +1,7 @@
+# .gitignore 内容示例
+*.o
+*.exe
+*.out
+build/
+.vscode/
+.DS_Store
